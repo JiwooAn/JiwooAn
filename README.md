@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 </p>
   
 #
-![Jiwoo's github stats](https://github-readme-stats.vercel.app/api?username=jiwooAn&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwooAn&layout=compact&theme=tokyonight)
+// ![Jiwoo's github stats](https://github-readme-stats.vercel.app/api?username=jiwooAn&show_icons=true&theme=tokyonight)
+// ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwooAn&layout=compact&theme=tokyonight)
 
 </div>
 
