@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-white?style=flat&logo=PostgreSQL&logoColor=61DAFB"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Mongo-FFFFFF?style=flat&logo=MongoDB&logoColor=green"/>&nbsp;&nbsp;
 </p>
